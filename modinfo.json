@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "shepherdmod",
+  "name": "Shepherd Mod",
+  "author": "Jan Princ",
+  "description": "Add Shepherd's staff into the game",
+  "version": "1.0.0",
+  "dependency": {
+    "game": ""
+  }
+}
