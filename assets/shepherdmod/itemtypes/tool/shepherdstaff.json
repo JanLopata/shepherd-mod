@@ -25,9 +25,6 @@
 	}],
 	shape: { base: "item/tool/shepherd-staff-2" },
 	heldTpHitAnimation: "breaktool",
-	textures: {
-		"nope": { base: "block/metal/sheet/iron1" }
-	},
 	durability: 150,
 	attackpower: 0.01,
 	creativeinventory: { "general": ["*"], "items": ["*"], "tools": ["*"] },
