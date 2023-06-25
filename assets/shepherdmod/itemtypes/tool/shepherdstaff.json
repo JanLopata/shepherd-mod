@@ -23,10 +23,10 @@
 			collisionBox: { x1: 0, y1: 0, z1: 0, x2: 0, y2: 0, z2: 0 }
 		}
 	}],
-	shape: { base: "item/stick" },
+	shape: { base: "item/tool/shepherd-staff-2" },
 	heldTpHitAnimation: "breaktool",
 	textures: {
-		"metal": { base: "block/metal/sheet/iron1" }
+		"nope": { base: "block/metal/sheet/iron1" }
 	},
 	durability: 150,
 	attackpower: 0.01,
