@@ -16,6 +16,7 @@
 	"shape": { "base": "item/tool/shepherd-staff" },
 	heldTpHitAnimation: "breaktool",
 	durability: 150,
+	attackRange: 3.5,
 	attackpower: 0.01,
 	creativeinventory: { "general": ["*"], "items": ["*"], "tools": ["*"] },
   	"guiTransform": {
