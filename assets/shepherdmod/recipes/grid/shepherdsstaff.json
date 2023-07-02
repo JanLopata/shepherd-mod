@@ -1,0 +1,9 @@
+{
+	"ingredientPattern": "SS,S_,S_",
+	"ingredients": {
+		"S": { "type": "item", "code": "game:stick" }
+	},
+	width: 2,
+	height: 3,
+	output: { type: "item", code: "shepherdstaff" }
+}
