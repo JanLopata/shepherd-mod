@@ -1,6 +1,6 @@
 {
 	code: "shepherdstaff",
-	damagedby: [],
+	damagedby: ["attacking"],
 	class: "ShepherdStaff",
 	attributes: {
 		handbook: {
