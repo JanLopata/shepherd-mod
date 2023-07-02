@@ -1,8 +1,8 @@
-# Shepherd's Crook Mod for Vintage Story
+# Shepherd's Mod for Vintage Story
 
 ## Description
 
-The Shepherd's Crook Mod is a modification (mod) for the Vintage Story game that adds a new tool called the Shepherd's Crook. This staff-like tool can be used to poke animals in the game, provoking them to become angry at the player without causing any harm to the animal.
+The Shepherd's Mod is a modification (mod) for the Vintage Story game that adds a new tool called the Shepherd's Crook. This staff-like tool can be used to poke animals in the game, provoking them to become angry at the player without causing actual harm to the animal.
 
 ## Features
 
@@ -45,5 +45,4 @@ The Shepherd's Crook Mod is released under the [MIT License](https://opensource.
 - Special thanks to 'Ramboner' for the idea contribution.
 
 Special thanks to the Vintage Story community for their support and feedback.
-
 
