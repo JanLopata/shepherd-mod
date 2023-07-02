@@ -23,7 +23,7 @@ Please note that these plans are subject to change, and updates will be released
 
 To install the Shepherd's Crook Mod, follow these steps:
 
-1. Download the mod file from the [Releases](https://github.com/shepherd-mod/releases) section of this GitHub repository.
+1. Download the mod file from the [Releases](https://github.com/JanLopata/shepherd-mod/releases) section of this GitHub repository.
 2. Locate the Vintage Story game installation directory on your computer.
 3. Open the "Mods" folder within the game installation directory.
 4. Place the downloaded mod file into the "Mods" folder.
@@ -31,13 +31,13 @@ To install the Shepherd's Crook Mod, follow these steps:
 
 ## Contributing
 
-Contributions to the Shepherd's Crook Mod are welcome! If you have any ideas, bug reports, or suggestions for improvements, please open an issue on the [Issue Tracker](https://github.com/shepherd-mod/issues) or submit a pull request.
+Contributions to the Shepherd's Crook Mod are welcome! If you have any ideas, bug reports, or suggestions for improvements, please open an issue on the [Issue Tracker](https://github.com/JanLopata/shepherd-mod/issues) or submit a pull request.
 
 When contributing, please ensure that your code follows the existing coding style and conventions used in the mod. Additionally, provide detailed information about any changes or additions you make.
 
 ## License
 
-The Shepherd's Crook Mod is released under the [MIT License](https://opensource.org/licenses/MIT). For more details, see the [LICENSE](https://github.com/shepherd-mod/blob/main/LICENSE) file.
+The Shepherd's Crook Mod is released under the [MIT License](https://opensource.org/licenses/MIT). For more details, see the [LICENSE](https://github.com/JanLopata/shepherd-mod/blob/main/LICENSE) file.
 
 ## Credits
 
