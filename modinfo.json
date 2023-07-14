@@ -1,11 +1,11 @@
 {
-  "type": "content",
+  "type": "code",
   "modid": "shepherdmod",
   "name": "Shepherd Mod",
   "author": "Jan Princ",
   "description": "Add Shepherd's crook to the game",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependency": {
-    "game": ""
+    "game": "1.8.5+"
   }
 }
