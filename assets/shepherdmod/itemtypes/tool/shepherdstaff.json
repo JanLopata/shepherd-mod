@@ -1,7 +1,6 @@
 {
 	code: "shepherdstaff",
 	damagedby: ["attacking"],
-	class: "ShepherdStaff",
 	attributes: {
 		rackable: true,
 		toolrackTransform: {
